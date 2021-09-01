@@ -1,20 +1,18 @@
+---
+tags: draft, house
+title: Sloop, smarter video hosting
+---
+
 # markdown-sandbox
 
+Sloop, the world's smartest video hosting platform
 
-> [reference]: https://cnn.com "ASDFASF"
+# todo
+* config mkdocs - https://www.mkdocs.org/getting-started/
+* config material theme - https://github.com/squidfunk/mkdocs-material
+* push to render.com
+* pull our content
+* set up menu
+* header
+* footer
 
-> [TOC]
-> 
-> [asdfasdfjkasdfjl](https:// "sad;fjkasdfjk")
----
-<details>
-  <summary>Click to expand!</summary>
-  
-  ### h1 asdf
-  1. A numbered
-  2. list
-     * With some
-     * Sub bullets
-     
-</details>
-  
